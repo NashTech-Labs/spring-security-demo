@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjpa;
+package com.knoldus.springsecurityjpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
