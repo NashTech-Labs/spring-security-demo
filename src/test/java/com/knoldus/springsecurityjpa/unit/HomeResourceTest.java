@@ -1,6 +1,6 @@
 package com.knoldus.springsecurityjpa.unit;
 
-import com.knoldus.springsecurityjpa.HomeResource;
+import com.knoldus.springsecurityjpa.service.HomeResource;
 import org.junit.Assert;
 import org.junit.Test;
 

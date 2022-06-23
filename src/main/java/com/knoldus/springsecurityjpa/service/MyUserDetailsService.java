@@ -1,5 +1,6 @@
-package com.knoldus.springsecurityjpa;
+package com.knoldus.springsecurityjpa.service;
 
+import com.knoldus.springsecurityjpa.UserRepository;
 import com.knoldus.springsecurityjpa.models.MyUserDetails;
 import com.knoldus.springsecurityjpa.models.User;
 
